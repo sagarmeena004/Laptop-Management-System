@@ -111,7 +111,7 @@ MICROSOFT   press 9
 
 ## 📸 Project Preview
 
-![Laptop Management System Demo](screenshots/laptop-management.png)
+![Laptop Management System Demo](screenshots/Laptop%20Store%20Terminal%20Workflow.png)
 
 ---
 
