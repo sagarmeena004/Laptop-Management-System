@@ -109,6 +109,10 @@ MICROSOFT   press 9
 
 **GitHub:** [sagarmeena004](https://github.com/sagarmeena004)
 
+## 📸 Project Preview
+
+![Laptop Management System Demo](screenshots/laptop-management.png)
+
 ---
 
 *Built with Python as a practice project for menu-driven applications and file handling.*
